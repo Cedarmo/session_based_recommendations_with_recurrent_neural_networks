@@ -1,0 +1,2 @@
+# session_based_recommendations_with_recurrent_neural_networks
+对文章:session-based recommendations with recurrent neural networks的理解和实现
